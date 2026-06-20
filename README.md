@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h3>🚀 Ex-Investment Banking Fellow @ Marquee Equity | Ex-Team Lead @ ZeTheta | Ex-Platform Engineer @ RDCC | Ex-AI Engineer @ Cybtree</h3>
+  <h3>🚀 Ex-Investment Banking Fellow @ Marquee Equity | Ex-AI Engineer @ ZeTheta | Ex-AI Engineer @ Cybtree</h3>
 </div>
 
 ---
@@ -13,24 +13,37 @@
 | Company | Description |
 | :--- | :--- |
 | <img src="https://img.shields.io/badge/MARQUEE_EQUITY-5B2D91?style=for-the-badge&logoColor=white" /><br> **July - Dec 2025** | **Investment Banking Fellow**<br>• Assisted in capital raising for startups by conducting market research, preparing investor pitch decks, and supporting due diligence. |
-| <img src="https://img.shields.io/badge/ZETHETA-0077B5?style=for-the-badge&logoColor=white" /><br> **May - July 2025** | **Team Lead & AI Engineer Intern**<br>• Coordinated task execution, managed timelines, and verified project delivery.<br>• Led the design and integration of dynamic, role-based dashboards, enhancing user experience.<br>• Promoted to team lead for outstanding performance among all interns. |
-| <img src="https://img.shields.io/badge/CODSOFT-E4405F?style=for-the-badge&logoColor=white" /><br> **May - June 2025** | **Web Development Intern**<br>• Enhanced creativity and delivered user-centric digital solutions while working on diverse projects.<br>• Focused on attention to detail and ability to deliver high-quality web solutions. |
-| <img src="https://img.shields.io/badge/RDCC-F7DF1E?style=for-the-badge&logoColor=white" /><br> **April - May 2025** | **Platform Engineer Intern**<br>• Unified coding on clouds for LLMs, Designing and Optimizing Platform Systems.<br>• Focused on building and optimizing robust cloud-based systems for AI. |
+| <img src="https://img.shields.io/badge/ZETHETA-0077B5?style=for-the-badge&logoColor=white" /><br> **May - July 2025** | **AI Engineer Intern**<br>• Coordinated task execution, managed timelines, and verified project delivery.<br>• Led the design and integration of dynamic, role-based dashboards, enhancing user experience. |
 | <img src="https://img.shields.io/badge/CYBTREE-000000?style=for-the-badge&logoColor=white" /><br> **Mar - Apr 2025** | **AI Engineer Intern**<br>• Developed an automated attack surface monitoring tool using AI-based risk analysis.<br>• Focused on implementing AI-driven security solutions. |
 
 ---
 
 ### 🚀 Featured Projects
 
-#### [VoteHub](https://live-voting-app1.netlify.app/)
-> A full-stack web app for creating and participating in live polls with real-time results.
-- **Tech Stack:** Node.js, Express, React, PostgreSQL, PowerShell.
-- **Live Demo:** [live-voting-app1.netlify.app](https://live-voting-app1.netlify.app/)
+#### [Smart Tracking](https://smart-tracking-2kvr.vercel.app/)
+> This repository provides you with a high-performance, full-stack financial dashboard that gives you 100% data ownership by tracking your expenses in a private local database instead of relying on external cloud services.
+- **Tech Stack:** React, TypeScript, Node.js, Express, Prisma, PostgreSQL, Three.js.
+- **Live Demo:** [smart-tracking-2kvr.vercel.app](https://smart-tracking-2kvr.vercel.app/)
 
-#### [Novel AI](https://novel-ai1.netlify.app/)
-> A modern web application for AI detection and plagiarism checking using advanced AI models.
-- **Tech Stack:** React, Express, JavaScript, HTML, CSS.
-- **Live Demo:** [novel-ai1.netlify.app](https://novel-ai1.netlify.app/)
+#### [VoteHub](https://vote-hub-gamma.vercel.app/)
+> VoteHub is a premium, glassmorphic platform for secure community voting and high-fidelity asset auctions with integrated viral sharing and deep-linking capabilities.
+- **Tech Stack:** React, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS.
+- **Live Demo:** [vote-hub-gamma.vercel.app](https://vote-hub-gamma.vercel.app/)
+
+#### [Website Scraper](https://github.com/noelregis718/Book-Scraper-Engine)
+> Scrapes, enriches, and classifies book metadata from various literary agencies.
+- **Tech Stack:** Python, Flask, Playwright, React, TypeScript, Pandas, Tailwind CSS.
+- **Source Code:** [Book-Scraper-Engine](https://github.com/noelregis718/Book-Scraper-Engine)
+
+#### [ProFlow](https://github.com/noelregis718/ProFlow)
+> ProFlow is a high-performance, local-first browser extension providing universal night mode, color picking, pomodoro focus timers, and persistent auto-scrolling.
+- **Tech Stack:** JavaScript, Vite, Manifest V3, Local Storage.
+- **Source Code:** [ProFlow](https://github.com/noelregis718/ProFlow)
+
+#### [Project Scratchpad](https://github.com/noelregis718/Project-Scratchpad)
+> Project Scratchpad is a VS Code extension for organizing notes and snippets within your workspace.
+- **Tech Stack:** TypeScript, VS Code API, Markdown.
+- **Source Code:** [Project-Scratchpad](https://github.com/noelregis718/Project-Scratchpad)
 
 ---
 
