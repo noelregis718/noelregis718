@@ -20,13 +20,43 @@
 
 ### 🚀 Featured Projects
 
-| Project | Details |
-| :--- | :--- |
-| 📊 **[Smart Tracking](https://smart-tracking-2kvr.vercel.app/)** | **Description:** This repository provides you with a high-performance, full-stack financial dashboard that gives you 100% data ownership by tracking your expenses in a private local database instead of relying on external cloud services.<br>**Tech Stack:** React, TypeScript, Node.js, Express, Prisma, PostgreSQL, Three.js.<br>🔗 **[Live Demo](https://smart-tracking-2kvr.vercel.app/)** |
-| 🗳️ **[VoteHub](https://vote-hub-gamma.vercel.app/)** | **Description:** VoteHub is a premium, glassmorphic platform for secure community voting and high-fidelity asset auctions with integrated viral sharing and deep-linking capabilities.<br>**Tech Stack:** React, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS.<br>🔗 **[Live Demo](https://vote-hub-gamma.vercel.app/)** |
-| 🕷️ **[Website Scraper](https://github.com/noelregis718/Book-Scraper-Engine)** | **Description:** Scrapes, enriches, and classifies book metadata from various literary agencies.<br>**Tech Stack:** Python, Flask, Playwright, React, TypeScript, Pandas, Tailwind CSS.<br>🔗 **[Source Code](https://github.com/noelregis718/Book-Scraper-Engine)** |
-| ⚡ **[ProFlow](https://github.com/noelregis718/ProFlow)** | **Description:** ProFlow is a high-performance, local-first browser extension providing universal night mode, color picking, pomodoro focus timers, and persistent auto-scrolling.<br>**Tech Stack:** JavaScript, Vite, Manifest V3, Local Storage.<br>🔗 **[Source Code](https://github.com/noelregis718/ProFlow)** |
-| 📝 **[Project Scratchpad](https://github.com/noelregis718/Project-Scratchpad)** | **Description:** Project Scratchpad is a VS Code extension for organizing notes and snippets within your workspace.<br>**Tech Stack:** TypeScript, VS Code API, Markdown.<br>🔗 **[Source Code](https://github.com/noelregis718/Project-Scratchpad)** |
+📊 **[Smart Tracking](https://smart-tracking-2kvr.vercel.app/)** 
+> *This repository provides you with a high-performance, full-stack financial dashboard that gives you 100% data ownership by tracking your expenses in a private local database instead of relying on external cloud services.*
+>
+> **Tech Stack:** React, TypeScript, Node.js, Express, Prisma, PostgreSQL, Three.js.<br>
+> 🔗 **[Live Demo](https://smart-tracking-2kvr.vercel.app/)**
+
+<br>
+
+🗳️ **[VoteHub](https://vote-hub-gamma.vercel.app/)**
+> *VoteHub is a premium, glassmorphic platform for secure community voting and high-fidelity asset auctions with integrated viral sharing and deep-linking capabilities.*
+>
+> **Tech Stack:** React, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS.<br>
+> 🔗 **[Live Demo](https://vote-hub-gamma.vercel.app/)**
+
+<br>
+
+🕷️ **[Website Scraper](https://github.com/noelregis718/Book-Scraper-Engine)**
+> *Scrapes, enriches, and classifies book metadata from various literary agencies.*
+>
+> **Tech Stack:** Python, Flask, Playwright, React, TypeScript, Pandas, Tailwind CSS.<br>
+> 🔗 **[Source Code](https://github.com/noelregis718/Book-Scraper-Engine)**
+
+<br>
+
+⚡ **[ProFlow](https://github.com/noelregis718/ProFlow)**
+> *ProFlow is a high-performance, local-first browser extension providing universal night mode, color picking, pomodoro focus timers, and persistent auto-scrolling.*
+>
+> **Tech Stack:** JavaScript, Vite, Manifest V3, Local Storage.<br>
+> 🔗 **[Source Code](https://github.com/noelregis718/ProFlow)**
+
+<br>
+
+📝 **[Project Scratchpad](https://github.com/noelregis718/Project-Scratchpad)**
+> *Project Scratchpad is a VS Code extension for organizing notes and snippets within your workspace.*
+>
+> **Tech Stack:** TypeScript, VS Code API, Markdown.<br>
+> 🔗 **[Source Code](https://github.com/noelregis718/Project-Scratchpad)**
 
 ---
 
