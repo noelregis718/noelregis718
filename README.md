@@ -1,10 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&section=header&text=Noel%20Regis&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=scaleIn" />
-</p>
+# 👋 Hey, I'm Noel Regis
 
-<div align="center">
-  <h3>🚀 Ex-Investment Banking Fellow @ Marquee Equity | Ex-AI Engineer @ ZeTheta | Ex-AI Engineer @ Cybtree</h3>
-</div>
+🚀 **Ex-Investment Banking Fellow @ Marquee Equity | Ex-AI Engineer @ ZeTheta | Ex-AI Engineer @ Cybtree**
+
+I build **high-performance web applications and AI-driven solutions** — full-stack financial dashboards, glassmorphic platforms, and automated risk analysis tools.
+
+<p align="left">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/noelregis718"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:noel.regis04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/919832160949"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -85,20 +90,3 @@
 - **Claude with Google Cloud's Vertex AI** | *Anthropic*
 - **NASA Open Science Essentials** | *NASA - National Aeronautics and Space Administration*
 
----
-
-### 🤝 Let's Connect!
-
-<p align="center">
-  <i>💬 Open for collaborations, internships, and exciting opportunities!</i>
-</p>
-
-<p align="center">
-  <a href="mailto:noel.regis04@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/919832160949"><img src="https://img.shields.io/badge/WHATSAPP%20ME-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=100&section=footer&animation=scaleIn" />
-</p>
