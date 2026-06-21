@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=250&section=header&text=Noel%20Regis&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&section=header&text=Noel%20Regis&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=scaleIn" />
 </p>
 
 <div align="center">
@@ -60,15 +60,6 @@
 
 ---
 
-### 🏆 Achievements and Certifications
-
-- **SEBI - Investor Certification Examination** | *National Institute of Securities Markets (NISM)*
-- **Network Support and Security** | *Cisco*
-- **Claude with Google Cloud's Vertex AI** | *Anthropic*
-- **NASA Open Science Essentials** | *NASA - National Aeronautics and Space Administration*
-
----
-
 ### 🛠️ Technical Skills
 
 | Category | Technologies |
@@ -87,6 +78,15 @@
 
 ---
 
+### 🏆 Achievements and Certifications
+
+- **SEBI - Investor Certification Examination** | *National Institute of Securities Markets (NISM)*
+- **Network Support and Security** | *Cisco*
+- **Claude with Google Cloud's Vertex AI** | *Anthropic*
+- **NASA Open Science Essentials** | *NASA - National Aeronautics and Space Administration*
+
+---
+
 ### 🤝 Let's Connect!
 
 <p align="center">
@@ -100,5 +100,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=100&section=footer&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=100&section=footer&animation=scaleIn" />
 </p>
