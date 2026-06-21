@@ -90,3 +90,14 @@ I build **high-performance web applications and AI-driven solutions** — full-s
 - **Claude with Google Cloud's Vertex AI** | *Anthropic*
 - **NASA Open Science Essentials** | *NASA - National Aeronautics and Space Administration*
 
+---
+
+### 🌍 Let's Connect
+
+📧 **Email:** [noel.regis04@gmail.com](mailto:noel.regis04@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/noelregis](https://linkedin.com)  
+💻 **GitHub:** [github.com/noelregis718](https://github.com/noelregis718)  
+💬 **WhatsApp:** [wa.me/919832160949](https://wa.me/919832160949)  
+
+> 💡 **Currently:** Building AI tools and full-stack web applications  
+> 🚀 **Open to:** Software engineering, AI/ML freelance projects, and full-time roles
