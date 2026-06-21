@@ -60,6 +60,15 @@
 
 ---
 
+### 🏆 Achievements and Certifications
+
+- **SEBI - Investor Certification Examination** | *National Institute of Securities Markets (NISM)*
+- **Network Support and Security** | *Cisco*
+- **Claude with Google Cloud's Vertex AI** | *Anthropic*
+- **NASA Open Science Essentials** | *NASA - National Aeronautics and Space Administration*
+
+---
+
 ### 🛠️ Technical Skills
 
 | Category | Technologies |
