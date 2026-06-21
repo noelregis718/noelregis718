@@ -5,10 +5,10 @@
 I build **high-performance web applications and AI-driven solutions** — full-stack financial dashboards, glassmorphic platforms, and automated risk analysis tools.
 
 <p align="left">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/noel-regis-aa07081b1/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/noelregis718"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:noel.regis04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/919832160949"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:noelregis718@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/917319546900"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
@@ -94,10 +94,9 @@ I build **high-performance web applications and AI-driven solutions** — full-s
 
 ### 🌍 Let's Connect
 
-📧 **Email:** [noel.regis04@gmail.com](mailto:noel.regis04@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/noelregis](https://linkedin.com)  
-💻 **GitHub:** [github.com/noelregis718](https://github.com/noelregis718)  
-💬 **WhatsApp:** [wa.me/919832160949](https://wa.me/919832160949)  
+📧 **Email:** [noelregis718@gmail.com](mailto:noelregis718@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/noel-regis-aa07081b1](https://www.linkedin.com/in/noel-regis-aa07081b1/)  
+📱 **Mobile:** +91 7319546900  
 
 > 💡 **Currently:** Building AI tools and full-stack web applications  
 > 🚀 **Open to:** Software engineering, AI/ML freelance projects, and full-time roles
