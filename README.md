@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=3000&pause=1000&color=36BCF7&width=600&lines=👋+Hey,+I'm+Noel+Regis" alt="Typing SVG" /></a>
+# 👋 Hey, I'm Noel Regis
 
 🚀 **Ex-Investment Banking Fellow @ Marquee Equity | Ex-AI Engineer @ ZeTheta | Ex-AI Engineer @ Cybtree**
 
