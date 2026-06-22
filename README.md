@@ -26,15 +26,11 @@ I build **high-performance web applications and AI-driven solutions** — full-s
 - **Tech Stack:** `React` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `Three.js`
 - **Links:** 🔗 [Live Demo](https://smart-tracking-2kvr.vercel.app/)
 
----
-
 #### [VoteHub](https://vote-hub-gamma.vercel.app/)
 *VoteHub is a premium, glassmorphic platform for secure community voting and high-fidelity asset auctions with integrated viral sharing and deep-linking capabilities.*
 
 - **Tech Stack:** `React` `Node.js` `Express` `Prisma` `PostgreSQL` `Tailwind CSS`
 - **Links:** 🔗 [Live Demo](https://vote-hub-gamma.vercel.app/)
-
----
 
 #### [Website Scraper](https://github.com/noelregis718/Book-Scraper-Engine)
 *Scrapes, enriches, and classifies book metadata from various literary agencies.*
@@ -42,15 +38,11 @@ I build **high-performance web applications and AI-driven solutions** — full-s
 - **Tech Stack:** `Python` `Flask` `Playwright` `React` `TypeScript` `Pandas` `Tailwind CSS`
 - **Links:** 🔗 [Source Code](https://github.com/noelregis718/Book-Scraper-Engine)
 
----
-
 #### [ProFlow](https://github.com/noelregis718/ProFlow)
 *ProFlow is a high-performance, local-first browser extension providing universal night mode, color picking, pomodoro focus timers, and persistent auto-scrolling.*
 
 - **Tech Stack:** `JavaScript` `Vite` `Manifest V3` `Local Storage`
 - **Links:** 🔗 [Source Code](https://github.com/noelregis718/ProFlow)
-
----
 
 #### [Project Scratchpad](https://github.com/noelregis718/Project-Scratchpad)
 *Project Scratchpad is a VS Code extension for organizing notes and snippets within your workspace.*
