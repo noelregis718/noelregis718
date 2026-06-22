@@ -12,9 +12,9 @@ I build **high-performance web applications and AI-driven solutions** — full-s
 
 | Company | Description |
 | :--- | :--- |
-| <img src="https://img.shields.io/badge/MARQUEE_EQUITY-5B2D91?style=for-the-badge&logoColor=white" /><br> **July - Dec 2025** | **Investment Banking Fellow**<br>• Assisted in capital raising for startups by conducting market research, preparing investor pitch decks, and supporting due diligence. |
-| <img src="https://img.shields.io/badge/ZETHETA-0077B5?style=for-the-badge&logoColor=white" /><br> **May - July 2025** | **AI Engineer Intern**<br>• Coordinated task execution, managed timelines, and verified project delivery.<br>• Led the design and integration of dynamic, role-based dashboards, enhancing user experience. |
-| <img src="https://img.shields.io/badge/CYBTREE-000000?style=for-the-badge&logoColor=white" /><br> **Mar - Apr 2025** | **AI Engineer Intern**<br>• Developed an automated attack surface monitoring tool using AI-based risk analysis.<br>• Focused on implementing AI-driven security solutions. |
+| <a><img src="https://img.shields.io/badge/MARQUEE_EQUITY-5B2D91?style=for-the-badge&logoColor=white" /></a><br> **July - Dec 2025** | **Investment Banking Fellow**<br>• Assisted in capital raising for startups by conducting market research, preparing investor pitch decks, and supporting due diligence. |
+| <a><img src="https://img.shields.io/badge/ZETHETA-0077B5?style=for-the-badge&logoColor=white" /></a><br> **May - July 2025** | **AI Engineer Intern**<br>• Coordinated task execution, managed timelines, and verified project delivery.<br>• Led the design and integration of dynamic, role-based dashboards, enhancing user experience. |
+| <a><img src="https://img.shields.io/badge/CYBTREE-000000?style=for-the-badge&logoColor=white" /></a><br> **Mar - Apr 2025** | **AI Engineer Intern**<br>• Developed an automated attack surface monitoring tool using AI-based risk analysis.<br>• Focused on implementing AI-driven security solutions. |
 
 ---
 
