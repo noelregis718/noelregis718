@@ -91,7 +91,7 @@ I build **high-performance web applications and AI-driven solutions** — full-s
 
 📧 **Email:** [noelregis718@gmail.com](mailto:noelregis718@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/noel-regis-aa07081b1](https://www.linkedin.com/in/noel-regis-aa07081b1/)  
-📱 **Mobile:** +91 7319546900  
+📱 **Mobile:** [+91 7319546900](tel:+917319546900)  
 
 > 💡 **Currently:** Building AI tools and full-stack web applications  
 > 🚀 **Open to:** Software engineering, AI/ML freelance projects, and full-time roles
