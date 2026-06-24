@@ -64,6 +64,13 @@ I build **high-performance web applications and AI-driven solutions** — full-s
 | **Fintech APIs** | Plaid, Unit Banking, Stripe, OAuth & Webhooks |
 | **Software & Tools** | Vercel, Netlify, Postman, GitHub, Git, Linux, VsCode |
 | **Programming** | JAVA, C, C++, Python, TypeScript |
+
+---
+
+### ➕ Additional Skills
+
+| Category | Skills |
+| :--- | :--- |
 | **Soft Skills** | Leadership, Public Speaking |
 | **Trading** | Futures and Options, Equity, Forex, Commodity |
 | **Editing** | Photos, Videos, Thumbnail |
