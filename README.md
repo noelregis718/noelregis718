@@ -65,9 +65,7 @@ I build **high-performance web applications and AI-driven solutions** — full-s
 | **Software & Tools** | Vercel, Netlify, Postman, GitHub, Git, Linux, VsCode |
 | **Programming** | JAVA, C, C++, Python, TypeScript |
 
----
-
-### ➕ Additional Skills
+### ➕ Core Competencies & Additional Skills
 
 | Category | Skills |
 | :--- | :--- |
